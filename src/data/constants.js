@@ -160,7 +160,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://i.pinimg.com/564x/44/a1/10/44a110b465de9500cdc99f7c8eca7944.jpg",
       },
       {
         name: "GitHub",
@@ -195,116 +195,63 @@ export const skills = [
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://i.pinimg.com/564x/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.jpg",
       },
     ],
   },
 ];
 
-// export const experiences = [
-//   {
-//     id: 0,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-//     role: "DevOps & Fullstack Engineering Intern",
-//     company: "Flipr Inovations Pvt. Ltd.",
-//     date: "Aug 2023 - July 2023",
-//     desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
-//     skills: [
-//       "Docker",
-//       "Terraform",
-//       "AWS",
-//       "EC2",
-//       "Portainer",
-//       "Nginx",
-//       "JavaScript",
-//       "TypeScript",
-//       "Node Js",
-//       " Next Js",
-//     ],
-//     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-//   },
-//   {
-//     id: 0,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-//     role: "Frontend Engineer Intern",
-//     company: "Neurobit",
-//     date: "June 2023 - Present",
-//     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-//     skills: [
-//       "ReactJS",
-//       "Redux",
-//       "NodeJs",
-//       "Material UI",
-//       "HTML",
-//       "CSS",
-//       "JavaScript",
-//     ],
-//     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-//   },
-//   {
-//     id: 1,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-//     role: "Fullstack Externship",
-//     company: "Flipr",
-//     date: "June 2023 - July 2023",
-//     desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-//     skills: [
-//       "ReactJS",
-//       "Redux",
-//       "NodeJs",
-//       "Material UI",
-//       "HTML",
-//       "CSS",
-//       "JavaScript",
-//       "Docker",
-//       "AWS",
-//       "MongoDB",
-//     ],
-//   },
-//   {
-//     id: 2,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-//     role: "Open Source Contributor ",
-//     company: "GirlScript Summer of Code",
-//     date: "May 2023 - Present",
-//     desc: "Contributing to different open-source projects and learn from industry experts",
-//     doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-//   },
-//   {
-//     id: 3,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-//     role: "Android Developer",
-//     company: "DSC KIIT",
-//     date: "Nov2021 - Present",
-//     desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-//     skills: [
-//       "Leadership",
-//       "Mobile Application Development",
-//       "Kotlin",
-//       "XML",
-//       "Figma",
-//     ],
-//   },
-//   {
-//     id: 4,
-//     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-//     role: "Android Developer Intern",
-//     company: "Rudraksha Welffare Foundation",
-//     date: "June 2021 - Oct 2021",
-//     desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-//     skills: [
-//       "Android",
-//       "Java",
-//       "Kotlin",
-//       "XML",
-//       "Node Js",
-//       "Cloud Firestore",
-//       "Firebase",
-//       "Figma",
-//     ],
-//     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-//   },
-// ];
+
+export const experiences = [
+  {
+    id: 0,
+    img: "https://i.ibb.co/7nBTMXd/images-8.jpg",
+    role: "Application Development Intern",
+    company: "CodSoft",
+    date: "Jan'24 - Feb'24",
+    desc: "In collaboration with a client, embarked on developing the frontend of an application utilizing Flutter, with a keen focus on establishing a seamless connection to the backend via Firebase. To enhance the application's performance and reduce memory usage, I employed GetX as my state management tool, strategically avoiding the use of stateful widgets. Furthermore, I implemented robust sign-in mechanisms by integrating Firebase Authentication and Google OAuth. For the secure and efficient storage of user data, I leveraged Firebase Cloud Firestore, ensuring a smooth and reliable user experience.",
+    skills: [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Git",
+      "Github",
+    ],
+  },
+  {
+    id: 1,
+    img: "https://i.postimg.cc/cL6QHyGT/nexus.webp",
+    role: "Web Development Intern",
+    company: "Nexus Software",
+    date: "Dec'23 - Feb'24",
+    desc: "Actively contributed to web development projects, leveraging a robust stack of essential technologies including Node.js, JavaScript, HTML, and CSS. My collaboration with the team was pivotal in implementing features that prioritized a seamless user experience and the creation of visually appealing user interfaces. Furthermore, my involvement extended to the development of server-side applications utilizing Express.js, where I consistently refined my coding skills. Throughout these projects, I gained substantial exposure to a suite of key development tools and technologies, such as HTML/CSS for front-end styling, JavaScript for dynamic interaction, Node.js and Express.js for server-side development, and Git/GitHub for version control and collaborative coding endeavors.",
+    skills: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Github",
+    ],
+  },
+  {
+    id: 2,
+    img: "https://i.ibb.co/fxD237y/null-class-logo.jpg",
+    role: "Software Development Intern",
+    company: "Null Class",
+    date: "May'23 - Jul'23",
+    desc: "Delved into examining the codebase, focusing on identifying and resolving issues related to JavaScript. My efforts significantly enhanced the overall code quality through the systematic modularization of the codebase, alongside reviewing changes made by my co-interns to ensure consistency and efficiency. I also played a key role in the development of a RESTful API, implementing a comprehensive range of HTTP methods including GET, PUT, POST, PATCH, and DELETE, to facilitate robust and scalable web services. Further contributing to the project, I integrated Google Authentication, employing Google OAuth to streamline the user authentication process, thereby significantly enhancing the user experience by simplifying access and ensuring security.",
+    skills: [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Git",
+      "Github",
+    ],
+  },
+];
 
 export const education = [
   {
@@ -337,7 +284,64 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
+    title: "Swift Cart - E-Commerce Application",
+    date: "Dec 2023",
+    description:
+      "Developed an e-commerce mobile application utilizing Flutter for the front-end design and Firebase for the back-end infrastructure, focusing on delivering a smooth and responsive user experience. The development process included the implementation of essential functions such as Sign Up, Log In, and Sign Out, alongside designing comprehensive schemas for user, product, and order data within Firebase to ensure a structured and efficient data management system. Additionally, I prioritized flexible product management by integrating dynamic layouts, user-friendly functionalities, and effective categorization. This approach allowed for an intuitive and engaging shopping experience, catering to the diverse needs and preferences of the end-users.",
+    image:
+      "https://i.pinimg.com/236x/ea/8b/a5/ea8ba5de10b72d1b21c6d5ab1ab1808f.jpg",
+    tags: [
+      "Dart",
+      "Flutter",
+      "Firebase",
+      "Cloud Firestore",
+      "Android Studio",
+    ],
+    category: "android app",
+    github: "https://github.com/MetalNomad78/Facemeet",
+    webapp: "",
+  },
+  {
+    id: 1,
+    title: "Ctrl+Alt+Connect - Full Stack Social Network Application",
+    date: "Nov 2023",
+    description:
+      "Developed a secure social network app with account creation, sign-in, and community features to interact with other developers. Provided developers with a platform to showcase projects, experience, education, and skills for effective self-presentation to the outer world. Developed a secure backend API using Node.js and Express, implementing JWT for robust authentication and authorization.",
+    image:
+      "https://i.pinimg.com/236x/14/73/a1/1473a15f7e5087c26dd293bc28235e6f.jpg",
+    tags: [
+      "React.js",
+      "Redux",
+      "Express.js",
+      "Javascript",
+      "MongoDB",
+      "HTML5",
+      "CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/MetalNomad78/Facemeet",
+    webapp: "",
+  },
+  {
+    id: 2,
+    title: "Calculator.io",
+    date: "Sep 2023",
+    description:
+      "Leveraged the sophisticated features and capabilities of the Flutter framework, a robust Calculator application was proficiently engineered. Intricate coding techniques and optimal algorithmic design were employed to ensure the seamless integration of performance and functionality within the app. A visually refined user interface was meticulously implemented, achieving a harmonious balance between technical precision and aesthetic appeal. This approach ensured that the app met the high standards of mobile application development, providing users with a seamless and visually pleasing experience.",
+    image:
+      "https://i.pinimg.com/564x/0a/c2/95/0ac295809821a006523cefbbaa79d451.jpg",
+    tags: [
+      "Dart",
+      "Flutter",
+      "Android Studio",
+    ],
+    category: "android app",
+    github: "https://github.com/MetalNomad78/calculator_app_flutter",
+    webapp: "",
+  },
+  {
+    id: 3,
     title: "Facemeet",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -350,14 +354,82 @@ export const projects = [
       "JavaScript",
       "Node Js",
       "Express Js",
-      "Redux",
+      "WebRTC",
     ],
     category: "web app",
     github: "https://github.com/MetalNomad78/Facemeet",
     webapp: "",
   },
   {
-    id: 0,
+    id: 4,
+    title: "Weather.io",
+    date: "Sep 2023",
+    description:
+      "Crafted a sophisticated weather app involving seamless integration with a Weather API for real-time data. Lottie Animations enhance the UI, offering dynamic and visually engaging elements. Ensuring geolocation precision, the app requests explicit permission for accurate, hyper-localized weather updates. Leveraging Lottie for visual appeal, animated icons and dynamic backgrounds create a technically refined and aesthetically pleasing user experience.",
+    image:
+      "https://i.pinimg.com/236x/db/d0/9d/dbd09d5653c5c86d4683a005ecb970df.jpg",
+    tags: [
+      "Dart",
+      "Flutter",
+      "Android Studio",
+    ],
+    category: "android app",
+    github: "https://github.com/MetalNomad78/weather_app",
+    webapp: "",
+  },
+  {
+    id: 5,
+    title: "Flashify - Flashlight App",
+    date: "Aug 2023",
+    description:
+      "Offers users effortless illumination with its single-button control for instant activation and deactivation of the phone's flashlight. The app elevates its visual charm through Lottie animations, introducing sophistication to the user interface and enhancing the overall user experience. Boasting a sleek and functional design, Flashify prioritizes easy navigation and a clutter-free interface, ensuring delightful and efficient flashlight usage while maintaining an elegant aesthetic.",
+    image:
+      "https://i.pinimg.com/236x/37/c4/1a/37c41a5295779e999f5d8103ccabb3b7.jpg",
+    tags: [
+      "Dart",
+      "Flutter",
+      "Android Studio",
+    ],
+    category: "android app",
+    github: "https://github.com/MetalNomad78/flashlight_app",
+    webapp: "",
+  },
+  {
+    id: 6,
+    title: "Movie.io",
+    date: "July 2023",
+    description:
+      "Integrating the TMDB API, the movie exploration app dynamically fetches real-time data for Now Playing, trending, and top-rated movies, ensuring users stay connected to the latest releases. Optimizing movie details pages with asynchronous data fetching enhances the user experience, allowing effortless access to comprehensive information. Using Hive for a local database, the app facilitates the storage and retrieval of user-specific watchlists, enabling persistent data even after app restarts. This robust approach seamlessly integrates local storage, enhancing user personalization within the app's watchlist functionality.",
+    image:
+      "https://i.ibb.co/1LjjrVH/movieio-high-resolution-logo.png",
+    tags: [
+      "Dart",
+      "Flutter",
+      "Android Studio",
+    ],
+    category: "android app",
+    github: "https://github.com/MetalNomad78/movie-listing-app",
+    webapp: "",
+  },
+  {
+    id: 7,
+    title: "Login/SignUp Page UI",
+    date: "Jun 2023",
+    description:
+      "During my internship at Nexus Software, I focused on developing a robust UI for user authentication, creating Login and Signup pages using HTML for content structuring and CSS for styling. Adhering to industry best practices, I integrated dynamic animations into the authentication process using CSS, employing keyframes and transitions for enhanced visual appeal and user interaction. The HTML structural foundation was carefully established to ensure a well-organized and semantically sound structure for the Login and Signup pages. This technical approach not only guarantees responsiveness but also aligns with Nexus Software's standards for code quality and design excellence, facilitating ease of maintenance.",
+    image:
+      "https://i.pinimg.com/236x/bd/48/8d/bd488d909a4604d04abb2a397f7109c0.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/MetalNomad78/project1-nexus.",
+    webapp: "",
+  },
+
+  {
+    id: 8,
     title: "Snake Food Game",
     date: "Apr 2022 - May 2022",
     description:
@@ -369,7 +441,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 1,
+    id: 9,
     title: "Pathfindng Visualizer",
     date: "June 2021 - July 2021",
     description:

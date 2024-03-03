@@ -6,11 +6,11 @@ import Navbar from "./components/Navbar";
 import './App.css';
 import { BrowserRouter as Router } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
-import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
@@ -28,7 +28,7 @@ const Wrapper = styled.div`
 `
 
 function App() {
-  const [darkMode, setDarkMode] = useState(true);
+  const [darkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal);
 
@@ -39,12 +39,17 @@ function App() {
         <Body>
           <HeroSection />
           <Wrapper>
+          <Experience />
+          </Wrapper>
+          <Wrapper>
             <Skills />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
-            <Contact />
+          </Wrapper>
+          <Wrapper>
+          <Contact />
           </Wrapper>
           <Footer />
           {openModal.state &&
